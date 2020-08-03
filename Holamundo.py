@@ -1,1 +1,3 @@
-print ("Hola mundo Python")
+saludo = "Hola"
+nombre = input()
+print(saludo + " "+ nombre)
